@@ -128,6 +128,7 @@ export default defineConfigWithTheme<ThemeConfig>({
   title: '小梦坊+',
   description: 'Vue.js - The Progressive JavaScript Framework',
   srcDir: 'src',
+  base:'/docs',
   // srcExclude: ['tutorial/**/description.md'],
 
   head: [
